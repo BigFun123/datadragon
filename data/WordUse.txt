@@ -1,0 +1,1504 @@
+[Word Use] Consider using stronger words or revising the phrase
+
+ of.~[word use, ending with a preposition]~Consider moving the proposition so that it has an object.
+
+additionally~[word use, weak transition]~
+admit to~[word use]~admit to -> admit. He will admit to liking toast -> He will admit liking toast.
+aim to~[word use]~intend to
+aims to~[word use]~intends to, aims at
+a lot of~[wordiness]~many / much
+all of the~[word use]~all of -> all.~All of the people came. All the people came.
+all of~[wordiness]~all
+all of a sudden~[wordiness]~suddenly
+all-around~[word use]~all-round
+all that bad~[word use]~all that bad -> bad.
+almost~[word use,approximation,vague]
+almost certainly~[word use,weak words]~likely
+almost never~[word use,weak,wordiness]~seldom
+along the lines of~[wordiness]~like
+also~[word use]~avoid using the word also, especially when 'and' will suffice
+always~[word use,absolute]
+a total of~[wordiness]~(just state the number)
+amongst~[word use,antiquated]~consider using among instead
+angry with~[word use]~angry at
+anticipate~[word use,weak word]~expect
+anticipated~[word use,weak word]~expected
+anticipates~[word use,weak word]~expects
+any and all~[wordiness]~all
+any one~[word use]~anyone - any person, any one - any individual
+anyways~[word use]~avoid using this word
+anxiously~[weak adverb]~She waited anxiously -> She sat waiting, biting her lip and looking around the room
+are able to~[wordiness]~can
+are both~[word use]~they are both happy -> they are happy
+are such that~[word use]~(remove)
+as~[word use,ambiguous]~consider using because, or when
+as a means to~[wordiness]~to
+as a way to~[wordiness]~to
+as a result of~[wordiness]~because of
+as being a~[wordiness]~as
+at a later date~[wordiness]~later
+at this conclusion of~[wordiness]~after
+at this point in time~[wordiness]~now
+at the present time~[wordiness]~now
+aught~[word use,antiquated]~ought
+a while~[word use]~awhile, unless it is a while later (a unit of time)
+backwards~[word use]~US - backward, UK - backwards
+backward~[word use]~US - backward, UK - backwards
+being as~[word use]~because
+being that~[word use]~because
+between all~[word use]~between for two, among for three or more
+bigger degree of~[wordiness]~more
+biweekly~[word use]~biweekly - every second week, semiweekly - twice a week
+broke his~[word use,verb]~his arm was broken, he broke his promise
+broke her~[word use,verb]~her arm was broken, she broke her promise
+broke its~[word use,verb]~its leg was broken, it broke its way out
+by~[word use]~avoid using the word 'by'
+but~[word use]~avoid using the word 'but'
+close to~[word use]~avoid where possible. Use 'near' or 'next' instead.
+comprises of~[word use]~comprises of -> is composed of, comprises (without 'is' or 'of')
+coarse through~[word use]~coarse gravel, a river course, a college course
+confessed to~[word use]~confessed (remove 'to')
+considerable amount of~[wordiness]~(be more specific)
+continue on~[word use]~avoid using 'continue on'
+could care less~[word use]~couldn't care less
+could of~[word use]~could have (unless used in dialog and the character speaking is uneducated)
+daylight savings time~[word use]~daylight saving time
+decreased number of~[wordiness]~fewer
+diagnose a patient~[word use]~diagnose a patient's symptoms
+diagnose the patient~[word use]~diagnose the patient's symptoms
+downward~[word use]~downwards
+drunk driver~[word use]~drunken driver
+drunk driving~[word use]~drunken driving
+due to the fact~[word use]~because
+due to~[word use]~because of
+elderly~[word choice]~consider a more specific phrase. An elderly man -> A 90-year-old man
+etc~[word use]~avoid using etc, most readers know when lists are not complete
+everyone knows~[word use]~avoid absolutes without evidence
+firstly~[word use]~first
+flautist~[archaic]~flutist
+gage~[word use]~guage (measure)
+greater degree of~[wordiness]~more
+guaranty~[word use]~guarantee
+higher degree of~[wordiness]~more
+how so ever~[word use]~howsoever
+frequently~[subjective]
+get~[word use]~Vague. Consider using a better word
+got~[word use]~Vague. Consider using a better word
+gotten~[word use]~Consider using a better word
+gotten used to~[word use]~become accustomed to
+half of the~[word use]~half the
+hardly ever~[word use]~seldom
+have got~[word use]~I have got a pimple -> I have a pimple
+he believed~[weak word]~he believed it to be true -> he knew it to be true
+he believes~[weak word]~he believes it to be true -> he knows it to be true
+here in after~[word use]~hereinafter
+here to fore~[word use]~heretofore
+I did good on~[word use]~I did well on
+I believe~[weak word]~I believe there are three -> There are three
+I did good on~[word use]~I did well on
+in back of~[word use]~behind, on the back of
+in order to~[wordiness]~in order to -> to
+is comprised of~[word use]~is comprised of -> is composed of, comprises (without 'is' or 'of')
+is such that~[wordiness]~(remove)
+I even~[word use]
+just desserts~[word use]~just deserts (from the French 'deservir')
+lesser degree of~[wordiness]~fewer
+larger degree of~[wordiness]~more
+nearly~[word use,approximation]
+never~[word use,approximation]
+not~[negative modifier]~consider using a word directly, not happy -> sad
+not feel good~[word use]~not feel well
+often~[subjective]
+on to~[word use]~When used as a preposition / on top of, use onto. When used to indicate the next choice, use on to
+onto the next~[word use]~When used as a preposition / on top of, use onto. When used to indicate the next choice, use on to
+perfect~[word use]~Few things are perfect, like perfect scores, perfect angles
+she believed~[weak word]~she believes it to be true -> she knows it to be true
+she believes~[weak word]~she believes it to be true -> she knows it to be true
+smaller degree of~[wordiness]~fewer
+spoken dialog~[word use]~spoken dialogue
+start to go~[word use, starting action]~I start to go -> I go
+starting to go~[word use, starting action]~I am starting to go -> I am going
+the ship floundered~[word use]~the ship foundered
+then~[weak transition]
+they believed~[weak word]~they believed it to be true -> they knew it to be true
+they believe~[weak word]~they believe it to be true -> they know it to be true
+travelling~[local spelling]~use Traveling for US English, Travelling for British English
+tsar~[word use]~czar
+
+very afraid~[word use]~terrified
+very angry~[word use]~furious
+very annoyed~[word use]~exasperated
+very annoying~[word use]~exasperating
+very bad~[word use]~atrocious
+very beautiful~[word use]~exquisite, gorgeous
+very big~[word use]~immense, massive
+very bright~[word use]~dazzling, luminous
+very busy~[word use]~swamped
+very calm~[word use]~serene
+very capable~[word use]~accomplished
+very careful~[word use]~cautious
+very cheap~[word use]~stingy,a bargain
+very clean~[word use]~spotless
+very clear~[word use]~obvious
+very clever~[word use]~brilliant
+very cold~[word use]~freezing
+very colorful~[word use]~vibrant
+very competitive~[word use]~cut-throat, dog-eat-dog
+very complete~[word use]~comprehensive
+very confused~[word use]~perplexed
+very creative~[word use]~innovative
+very crowded~[word use]~bustling
+very conventional~[word use]~conservative
+very dangerous~[word use]~perilous
+very dear~[word use]~cherished
+very deep~[word use]~profound,bottomless,distant,fathomless,subterranean,unfathomable
+very depressed~[word use]~despondent
+very detailed~[word use]~meticulous,elaborate
+very different~[word use]~disparate
+very difficult~[word use]~arduous
+very dirty~[word use]~squalid,filthy
+very dry~[word use]~parched,arid
+very dull~[word use]~tedious
+very eager~[word use]~keen
+very easy~[word use]~effortless
+very empty~[word use]~desolate
+very excited~[word use]~thrilled
+very exciting~[word use]~exhilarating
+very expensive~[word use]~costly,lavish,invaluable,ritzy
+very fancy~[word use]~lavish,posh
+very fast~[word use]~quick
+very fat~[word use]~obese
+very friendly~[word use]~amiable
+very fierce~[word use]~ferocious
+very frightened~[word use]~terrified
+very frightening~[word use]~terrifying
+very funny~[word use]~hilarious
+very glad~[word use]~overjoyed
+very good~[word use]~superb,excellent
+very great~[word use]~terrific,immense
+very happy~[word use]~jubilant,ecstatic
+very hard~[word use]~difficult
+very hard to find~[word use]~rare
+very hard-to-find~[word use]~rare
+very heavy~[word use]~leaden
+very high~[word use]~soaring
+very hot~[word use]~scalding,sweltering
+very huge~[word use]~colossal,gigantic
+very hungry~[word use]~ravenous,starving
+very hurt~[word use]~battered
+very important~[word use]~crucial
+very intelligent~[word use]~brilliant,genius
+very interesting~[word use]~captivating
+very large~[word use]~colossal,huge,gigantic
+very lazy~[word use]~indolent
+very little~[word use]~tiny
+very lively~[word use]~vivacious
+very long~[word use]~extensive
+very long term~[word use]~enduring
+very long-term~[word use]~enduring
+very loose~[word use]~slack
+very loved~[word use]~adored
+very mean~[word use]~cruel
+very messy~[word use]~slovenly
+very much~[word use]~greatly
+very neat~[word use]~immaculate
+very necessary~[word use]~essential
+very nervous~[word use]~apprehensive
+very nice~[word use]~lovely,good,pleasant,seemly,gracious,genial,kind
+very noisy~[word use]~deafening
+very often~[word use]~frequently
+very old~[word use]~ancient
+very old-fashioned~[word use]~archaic
+very old fashioned~[word use]~archaic
+very open~[word use]~transparent
+very painful~[word use]~excruciating
+very pale~[word use]~ashen
+very perfect~[word use]~flawless
+very poor~[word use]~destitute
+very powerful~[word use]~compelling
+very pretty~[word use]~beautiful
+very quick~[word use]~rapid
+very quiet~[word use]~silent,hushed
+very rainy~[word use]~pouring
+very rich~[word use]~wealthy
+very risky~[word use]~perilous
+very roomy~[word use]~spacious
+very rude~[word use]~vulgar
+very sad~[word use]~melancholy,bitter,dismal,mournful,somber,gloomy
+very scared~[word use]~petrified
+very scary~[word use]~chilling
+very serious~[word use]~solemn,grave
+very sharp~[word use]~keen
+very shiny~[word use]~gleaming
+very short~[word use]~brief
+very shy~[word use]~timid
+very simply~[word use]~basic
+very skinny~[word use]~skeletal
+very small~[word use]~tiny,petite
+very smart~[word use]~intelligent
+very smelly~[word use]~pungent
+very smooth~[word use]~sleek
+very soft~[word use]~downy
+very sorry~[word use]~apologetic
+very special~[word use]~exceptional
+very strong~[word use]~unyielding,brawny,severe,potent,bullnecked,forceful
+very stupid~[word use]~idiotic
+very sure~[word use]~certain
+very sweet~[word use]~thoughtful
+very talented~[word use]~gifted
+very tall~[word use]~towering
+very tasty~[word use]~delicious
+very thin~[word use]~gaunt,skinny
+very tight~[word use]~constricting
+very tiny~[word use]~miniscule
+very tired~[word use]~exhausted
+very ugly~[word use]~horrid,grotesque,hideous,unsightly,foul,repugnant
+very unhappy~[word use]~miserable
+very upset~[word use]~distraught
+very valuable~[word use]~precious
+very warm~[word use]~hot
+very weak~[word use]~feeble,frail
+very well-to-do~[word use]~wealthy
+very well to do~[word use]~wealthy
+very wet~[word use]~soaked
+very wicked~[word use]~villainous
+very willing~[word use]~eager
+very windy~[word use]~blustery
+very wise~[word use]~sagacious
+very worried~[word use]~anxious,distressed
+very~[word use]~consider a more appropriate word
+was able to~[wordiness]~could
+walk in to~[word use, motion verb]~walk into
+walks in to~[word use, motion verb]~walks into
+walked in to~[word use, motion verb]~walked into
+what about we~[word use]~should we/I/they
+what about I~[word use]~should we/I/they
+
+to be watched by~[passive voice]~to be watched by -> he will watch
+was arisen by~[passive voice]~was arisen by -> he arose 
+was awoken by~[passive voice]~was awoken by -> he woke
+was babysat by~[passive voice]~was babysat by -> he babysat 
+was been by~[passive voice]~was been by -> he was / were 
+was beaten by~[passive voice]~was beaten by -> he beat 
+was become by~[passive voice]~was become by -> he became 
+was bent by~[passive voice]~was bent by -> he bent 
+was begun by~[passive voice]~was begun by -> he began 
+was bet by~[passive voice]~was bet by -> he bet 
+was bound by~[passive voice]~was bound by -> he bound 
+was bitten by~[passive voice]~was bitten by -> he bit 
+was bled by~[passive voice]~was bled by -> he bled 
+was blown by~[passive voice]~was blown by -> he blew 
+was broken by~[passive voice]~was broken by -> he broke 
+was bred by~[passive voice]~was bred by -> he bred 
+was brought by~[passive voice]~was brought by -> he brought 
+was broadcast by~[passive voice]~was broadcast by -> he broadcast 
+was built by~[passive voice]~was built by -> he built 
+was bought by~[passive voice]~was bought by -> he bought 
+was caught by~[passive voice]~was caught by -> he caught 
+was chosen by~[passive voice]~was chosen by -> he chose 
+was come by~[passive voice]~was come by -> he came 
+was cost by~[passive voice]~was cost by -> he cost 
+was cut by~[passive voice]~was cut by -> he cut 
+was dealt by~[passive voice]~was dealt by -> he dealt 
+was dug by~[passive voice]~was dug by -> he dug 
+was done by~[passive voice]~was done by -> he did 
+was drawn by~[passive voice]~was drawn by -> he drew 
+was drunk by~[passive voice]~was drunk by -> he drank 
+was driven by~[passive voice]~was driven by -> he drove 
+was eaten by~[passive voice]~was eaten by -> he ate 
+was fallen by~[passive voice]~was fallen by -> he fell 
+was fed by~[passive voice]~was fed by -> he fed 
+was felt by~[passive voice]~was felt by -> he felt 
+was fought by~[passive voice]~was fought by -> he fought 
+was found by~[passive voice]~was found by -> he found 
+was flown by~[passive voice]~was flown by -> he flew 
+was forbidden by~[passive voice]~was forbidden by -> he forbade 
+was forgotten by~[passive voice]~was forgotten by -> he forgot 
+was forgiven by~[passive voice]~was forgiven by -> he forgave 
+was frozen by~[passive voice]~was frozen by -> he froze 
+was got (BrE) gotten (AmE) by~[passive voice]~was got (BrE) gotten (AmE) by -> he got 
+was given by~[passive voice]~was given by -> he gave 
+was gone by~[passive voice]~was gone by -> he went 
+was grown by~[passive voice]~was grown by -> he grew 
+was hung by~[passive voice]~was hung by -> he hung 
+was had by~[passive voice]~was had by -> he had 
+was heard by~[passive voice]~was heard by -> he heard 
+was hidden by~[passive voice]~was hidden by -> he hid 
+was hit by~[passive voice]~was hit by -> he hit 
+was held by~[passive voice]~was held by -> he held 
+was hurt by~[passive voice]~was hurt by -> he hurt 
+was kept by~[passive voice]~was kept by -> he kept 
+was known by~[passive voice]~was known by -> he knew 
+was laid by~[passive voice]~was laid by -> he laid 
+was led by~[passive voice]~was led by -> he led 
+was left by~[passive voice]~was left by -> he left 
+was lent by~[passive voice]~was lent by -> he lent 
+was let by~[passive voice]~was let by -> he let 
+was lain by~[passive voice]~was lain by -> he lay 
+was lit by~[passive voice]~was lit by -> he lit 
+was lost by~[passive voice]~was lost by -> he lost 
+was made by~[passive voice]~was made by -> he made 
+was meant by~[passive voice]~was meant by -> he meant 
+was met by~[passive voice]~was met by -> he met
+was paid by~[passive voice]~was paid by -> he paid 
+was put by~[passive voice]~was put by -> he put 
+was quit by~[passive voice]~was quit by -> he quit 
+was read by~[passive voice]~was read by -> he read 
+was ridden by~[passive voice]~was ridden by -> he rode 
+was rung by~[passive voice]~was rung by -> he rang 
+was risen by~[passive voice]~was risen by -> he rose 
+was run by~[passive voice]~was run by -> he ran 
+was said by~[passive voice]~was said by -> he said 
+was seen by~[passive voice]~was seen by -> he saw 
+was sold by~[passive voice]~was sold by -> he sold 
+was sent by~[passive voice]~was sent by -> he sent 
+was set by~[passive voice]~was set by -> he set 
+was shaken by~[passive voice]~was shaken by -> he shook 
+was shone by~[passive voice]~was shone by -> he shone 
+was shot by~[passive voice]~was shot by -> he shot 
+was shown by~[passive voice]~was shown by -> he showed 
+was shut by~[passive voice]~was shut by -> he shut 
+was sung by~[passive voice]~was sung by -> he sang 
+was sunk by~[passive voice]~was sunk by -> he sank 
+was sat by~[passive voice]~was sat by -> he sat 
+was slept by~[passive voice]~was slept by -> he slept 
+was slid by~[passive voice]~was slid by -> he slid 
+was spoken by~[passive voice]~was spoken by -> he spoke 
+was sped by~[passive voice]~was sped by -> he sped 
+was spent by~[passive voice]~was spent by -> he spent 
+was spun by~[passive voice]~was spun by -> he spun 
+was spread by~[passive voice]~was spread by -> he spread 
+was stood by~[passive voice]~was stood by -> he stood 
+was stolen by~[passive voice]~was stolen by -> he stole 
+was stuck by~[passive voice]~was stuck by -> he stuck 
+was stung by~[passive voice]~was stung by -> he stung 
+was struck by~[passive voice]~was struck by -> he struck 
+was sworn by~[passive voice]~was sworn by -> he swore 
+was swept by~[passive voice]~was swept by -> he swept 
+was swum by~[passive voice]~was swum by -> he swam 
+was swung by~[passive voice]~was swung by -> he swung 
+was taken by~[passive voice]~was taken by -> he took 
+was taught by~[passive voice]~was taught by -> he taught 
+was torn by~[passive voice]~was torn by -> he tore 
+was told by~[passive voice]~was told by -> he told 
+was thought by~[passive voice]~was thought by -> he thought 
+was thrown by~[passive voice]~was thrown by -> he threw 
+was understood by~[passive voice]~was understood by -> he understood 
+was woken by~[passive voice]~was woken by -> he woke 
+was worn by~[passive voice]~was worn by -> he wore 
+was won by~[passive voice]~was won by -> he won 
+was withdrawn by~[passive voice]~was withdrawn by -> he withdrew 
+was written by~[passive voice]~was written by -> he wrote 
+was by~[passive voice]~was by -> he 
+was burned OR burnt by~[passive voice]~was burned OR burnt by -> he burned OR burnt 
+was dreamed OR dreamt by~[passive voice]~was dreamed OR dreamt by -> he dreamed OR dreamt 
+was learned OR learnt by~[passive voice]~was learned OR learnt by -> he learned OR learnt 
+was smelled OR smelt by~[passive voice]~was smelled OR smelt by -> he smelled OR smelt 
+
+were arisen by~[passive voice]~were arisen by -> they arose 
+were awoken by~[passive voice]~were awoken by -> they woke
+were babysat by~[passive voice]~were babysat by -> they babysat 
+were been by~[passive voice]~were been by -> they was / were 
+were beaten by~[passive voice]~were beaten by -> they beat 
+were become by~[passive voice]~were become by -> they became 
+were bent by~[passive voice]~were bent by -> they bent 
+were begun by~[passive voice]~were begun by -> they began 
+were bet by~[passive voice]~were bet by -> they bet 
+were bound by~[passive voice]~were bound by -> they bound 
+were bitten by~[passive voice]~were bitten by -> they bit 
+were bled by~[passive voice]~were bled by -> they bled 
+were blown by~[passive voice]~were blown by -> they blew 
+were broken by~[passive voice]~were broken by -> they broke 
+were bred by~[passive voice]~were bred by -> they bred 
+were brought by~[passive voice]~were brought by -> they brought 
+were broadcast by~[passive voice]~were broadcast by -> they broadcast 
+were built by~[passive voice]~were built by -> they built 
+were bought by~[passive voice]~were bought by -> they bought 
+were caught by~[passive voice]~were caught by -> they caught 
+were chosen by~[passive voice]~were chosen by -> they chose 
+were come by~[passive voice]~were come by -> they came 
+were cost by~[passive voice]~were cost by -> they cost 
+were cut by~[passive voice]~were cut by -> they cut 
+were dealt by~[passive voice]~were dealt by -> they dealt 
+were dug by~[passive voice]~were dug by -> they dug 
+were done by~[passive voice]~were done by -> they did 
+were drawn by~[passive voice]~were drawn by -> they drew 
+were drunk by~[passive voice]~were drunk by -> they drank 
+were driven by~[passive voice]~were driven by -> they drove 
+were eaten by~[passive voice]~were eaten by -> they ate 
+were fallen by~[passive voice]~were fallen by -> they fell 
+were fed by~[passive voice]~were fed by -> they fed 
+were felt by~[passive voice]~were felt by -> they felt 
+were fought by~[passive voice]~were fought by -> they fought 
+were found by~[passive voice]~were found by -> they found 
+were flown by~[passive voice]~were flown by -> they flew 
+were forbidden by~[passive voice]~were forbidden by -> they forbade 
+were forgotten by~[passive voice]~were forgotten by -> they forgot 
+were forgiven by~[passive voice]~were forgiven by -> they forgave 
+were frozen by~[passive voice]~were frozen by -> they froze 
+were got (BrE) gotten (AmE) by~[passive voice]~were got (BrE) gotten (AmE) by -> they got 
+were given by~[passive voice]~were given by -> they gave 
+were gone by~[passive voice]~were gone by -> they went 
+were grown by~[passive voice]~were grown by -> they grew 
+were hung by~[passive voice]~were hung by -> they hung 
+were had by~[passive voice]~were had by -> they had 
+were heard by~[passive voice]~were heard by -> they heard 
+were hidden by~[passive voice]~were hidden by -> they hid 
+were hit by~[passive voice]~were hit by -> they hit 
+were held by~[passive voice]~were held by -> they held 
+were hurt by~[passive voice]~were hurt by -> they hurt 
+were kept by~[passive voice]~were kept by -> they kept 
+were known by~[passive voice]~were known by -> they knew 
+were laid by~[passive voice]~were laid by -> they laid 
+were led by~[passive voice]~were led by -> they led 
+were left by~[passive voice]~were left by -> they left 
+were lent by~[passive voice]~were lent by -> they lent 
+were let by~[passive voice]~were let by -> they let 
+were lain by~[passive voice]~were lain by -> they lay 
+were lit by~[passive voice]~were lit by -> they lit 
+were lost by~[passive voice]~were lost by -> they lost 
+were made by~[passive voice]~were made by -> they made 
+were meant by~[passive voice]~were meant by -> they meant 
+were met by~[passive voice]~were met by -> they met
+were paid by~[passive voice]~were paid by -> they paid 
+were put by~[passive voice]~were put by -> they put 
+were quit by~[passive voice]~were quit by -> they quit 
+were read by~[passive voice]~were read by -> they read 
+were ridden by~[passive voice]~were ridden by -> they rode 
+were rung by~[passive voice]~were rung by -> they rang 
+were risen by~[passive voice]~were risen by -> they rose 
+were run by~[passive voice]~were run by -> they ran 
+were said by~[passive voice]~were said by -> they said 
+were seen by~[passive voice]~were seen by -> they saw 
+were sold by~[passive voice]~were sold by -> they sold 
+were sent by~[passive voice]~were sent by -> they sent 
+were set by~[passive voice]~were set by -> they set 
+were shaken by~[passive voice]~were shaken by -> they shook 
+were shone by~[passive voice]~were shone by -> they shone 
+were shot by~[passive voice]~were shot by -> they shot 
+were shown by~[passive voice]~were shown by -> they showed 
+were shut by~[passive voice]~were shut by -> they shut 
+were sung by~[passive voice]~were sung by -> they sang 
+were sunk by~[passive voice]~were sunk by -> they sank 
+were sat by~[passive voice]~were sat by -> they sat 
+were slept by~[passive voice]~were slept by -> they slept 
+were slid by~[passive voice]~were slid by -> they slid 
+were spoken by~[passive voice]~were spoken by -> they spoke 
+were sped by~[passive voice]~were sped by -> they sped 
+were spent by~[passive voice]~were spent by -> they spent 
+were spun by~[passive voice]~were spun by -> they spun 
+were spread by~[passive voice]~were spread by -> they spread 
+were stood by~[passive voice]~were stood by -> they stood 
+were stolen by~[passive voice]~were stolen by -> they stole 
+were stuck by~[passive voice]~were stuck by -> they stuck 
+were stung by~[passive voice]~were stung by -> they stung 
+were struck by~[passive voice]~were struck by -> they struck 
+were sworn by~[passive voice]~were sworn by -> they swore 
+were swept by~[passive voice]~were swept by -> they swept 
+were swum by~[passive voice]~were swum by -> they swam 
+were swung by~[passive voice]~were swung by -> they swung 
+were taken by~[passive voice]~were taken by -> they took 
+were taught by~[passive voice]~were taught by -> they taught 
+were torn by~[passive voice]~were torn by -> they tore 
+were told by~[passive voice]~were told by -> they told 
+were thought by~[passive voice]~were thought by -> they thought 
+were thrown by~[passive voice]~were thrown by -> they threw 
+were understood by~[passive voice]~were understood by -> they understood 
+were woken by~[passive voice]~were woken by -> they woke 
+were worn by~[passive voice]~were worn by -> they wore 
+were won by~[passive voice]~were won by -> they won 
+were withdrawn by~[passive voice]~were withdrawn by -> they withdrew 
+were written by~[passive voice]~were written by -> they wrote 
+were by~[passive voice]~were by -> they 
+were burned OR burnt by~[passive voice]~were burned OR burnt by -> they burned OR burnt 
+were dreamed OR dreamt by~[passive voice]~were dreamed OR dreamt by -> they dreamed OR dreamt 
+were learned OR learnt by~[passive voice]~were learned OR learnt by -> they learned OR learnt 
+were smelled OR smelt by~[passive voice]~were smelled OR smelt by -> they smelled OR smelt 
+
+
+absolutely essential~[wordiness]~essential
+aforementioned~[wordiness]~(Consider reworking the sentence to avoid this)
+a bigger degree of~[wordiness]~more
+a greater degree of~[wordiness]~more
+a higher degree of~[wordiness]~more
+a larger degree of~[wordiness]~more
+a considerable amount of~[wordiness]~(Consider reworking the sentence to avoid this) or be specific
+a decreased number of~[wordiness]~fewer
+a distance of~[wordiness]~just state the distance
+a lesser degree of~[wordiness]~less
+a smaller degree of~[wordiness]~fewer
+a lot of~[wordiness]~many, much
+a majority of~[wordiness]~most, much of, many
+a person who is~[wordiness]~a xxx person
+a total of~[wordiness]~just state the number
+added bonus~[wordiness]~bonus
+advance notice~[wordiness]~notice
+advance reservations~[wordiness]~reservations
+advance warning~[wordiness]~warning
+advance planning~[wordiness]~planning
+after all is said and done~[wordiness]~(Consider reworking the sentence to avoid this)
+all across~[wordiness]~across
+all of~[wordiness]~all
+all of a sudden~[wordiness]~suddenly
+all of these~[wordiness]~these
+all-time record~[wordiness]~record
+almost never~[wordiness]~seldom
+along the lines of~[wordiness]~like
+any and all~[wordiness]~all
+are such that~[wordiness]~(Consider reworking the sentence to avoid this)
+is such that~[wordiness]~(Consider reworking the sentence to avoid this)
+are able to~[wordiness]~can OR (Consider reworking the sentence to avoid this)
+was able to~[wordiness]~can OR (Consider reworking the sentence to avoid this)
+were able to~[wordiness]~can OR (Consider reworking the sentence to avoid this)
+armed gunman~[wordiness]~gunman
+assemble together~[wordiness]~assemble
+attach together~[wordiness]~attach
+as a matter of fact~[wordiness]~in fact OR (Consider reworking the sentence to avoid this)
+as a means to~[wordiness]~to
+as a result of~[wordiness]~because of
+as a whole~[wordiness]~(Consider reworking the sentence to avoid this)
+as a way to~[wordiness]~to
+as being a~[wordiness]~as OR (Consider reworking the sentence to avoid this)
+as it truly is~[wordiness]~(Consider reworking the sentence to avoid this)
+as of the moment~[wordiness]~(Consider reworking the sentence to avoid this)
+as the case may be~[wordiness]~(Consider reworking the sentence to avoid this)
+at a later date~[wordiness]~later
+at the conclusion of~[wordiness]~after
+at all times~[wordiness]~always OR (Consider reworking the sentence to avoid this)
+at first glance~[wordiness]~(Consider reworking the sentence to avoid this)
+at the present time~[wordiness]~currently, now
+at the same time that~[wordiness]~while
+at this point in time~[wordiness]~now OR (Consider reworking the sentence to avoid this)
+autobiography of his [or her] life~[wordiness]~autobiography
+bald-headed~[wordiness]~bald
+based in large part on~[wordiness]~based on
+based on the fact that~[wordiness]~since/because
+basic necessity~[wordiness]~necessity
+basic fundamentals~[wordiness]~basics OR fundamentals
+because of the fact of~[wordiness]~because of
+being~[wordiness]~(Consider reworking the sentence to avoid this)
+being that~[wordiness]~because
+best ever~[wordiness]~best
+beyond a shadow of a doubt~[wordiness]~(Consider reworking the sentence to avoid this)
+blend together~[wordiness]~blend
+both of these~[wordiness]~both
+both of them~[wordiness]~both
+both of the~[wordiness]~both
+brings to mind~[wordiness]~recalls/suggests
+brief moment~[wordiness]~moment
+brief summary~[wordiness]~summary
+but yet~[wordiness]~but OR yet
+burning embers~[wordiness]~embers
+by and large~[wordiness]~(Consider reworking the sentence to avoid this)
+by definition~[wordiness]~(Consider reworking the sentence to avoid this)
+by leaps and bounds~[wordiness]~(Consider reworking the sentence to avoid this)
+by means of~[wordiness]~by
+by the same token~[wordiness]~(Consider reworking the sentence to avoid this) OR similarly/likewise
+by the use of~[wordiness]~using
+by virtue of~[wordiness]~by
+by virtue of the fact that~[wordiness]~because
+came to a realization~[wordiness]~realized/recognized
+came to an abrupt end~[wordiness]~end[ed] abruptly
+careful scrutiny~[wordiness]~scrutiny
+can be seen as~[wordiness]~is OR (Consider reworking the sentence to avoid this)
+classify into groups~[wordiness]~classify
+clearly articulate~[wordiness]~articulate
+close scrutiny~[wordiness]~scrutiny
+close down~[wordiness]~close
+close up~[wordiness]~close
+collaborate together~[wordiness]~collaborate
+combine together~[wordiness]~combine
+come to the understanding~[wordiness]~understand
+common similarities~[wordiness]~similarities
+comparatively larger than~[wordiness]~larger than/smaller than
+comparatatively smaller than~[wordiness]~smaller than
+compare and contrast~[wordiness]~compare
+compete with each other~[wordiness]~compete
+complete stranger~[wordiness]~stranger
+completely~[wordiness]~(Consider reworking the sentence to avoid this)
+concerning the matter of~[wordiness]~about/regarding
+conduct an investigation into~[wordiness]~investigate
+connected together~[wordiness]~connected
+continue into the future~[wordiness]~continue OR (Consider reworking the sentence to avoid this)
+continue on~[wordiness]~continue
+consensus of opinion~[wordiness]~consensus
+consider to be~[wordiness]~(Consider reworking the sentence to avoid this)
+considered to be~[wordiness]~(Consider reworking the sentence to avoid this)
+core essence~[wordiness]~(Consider reworking the sentence to avoid this)
+correctional facility~[wordiness]~jail
+crisis situation~[wordiness]~crisis
+dates back to~[wordiness]~dates to
+depreciate in value~[wordiness]~depreciate
+great pleasure from~[wordiness]~enjoy, appreciate, etc.
+despite the fact that~[wordiness]~although
+did not succeed~[wordiness]~failed
+disappear from sight~[wordiness]~disappear
+doomed to perish~[wordiness]~doomed
+due to the effects~[wordiness]~because
+due to the fact that~[wordiness]~because
+dull in appearance~[wordiness]~dull
+during the course of~[wordiness]~during, while
+each and every~[wordiness]~each, every
+each individual~[wordiness]~(Consider reworking the sentence to avoid this) OR everyone
+each of~[wordiness]~each
+early on in the~[wordiness]~early in the
+each separate incident~[wordiness]~each incident
+economically deprived~[wordiness]~poor
+eliminate altogether~[wordiness]~eliminate
+emergency situation~[wordiness]~emergency
+enclosed herewith~[wordiness]~enclosed
+end result~[wordiness]~result
+engaged in~[wordiness]~(Consider reworking the sentence to avoid this)
+enter into~[wordiness]~enter OR (Consider reworking the sentence to avoid this)
+epic quest~[wordiness]~quest OR epic
+equal to one another~[wordiness]~equal
+equally as good~[wordiness]~equally good OR equal
+erode away~[wordiness]~erode
+every single one~[wordiness]~each one, all, each
+exactly identical~[wordiness]~identical
+exactly the same~[wordiness]~the same For Jack, every well was exactly the same
+fair amount~[wordiness]~(Consider reworking the sentence to avoid this) [or be specific]
+fall down~[wordiness]~fall
+few and far between~[wordiness]~rare, unusual OR (Consider reworking the sentence to avoid this)
+few in number~[wordiness]~few
+filled to capacity~[wordiness]~filled [full]
+final outcome~[wordiness]~final OR (Consider reworking the sentence to avoid this)
+first priority~[wordiness]~priority
+first and foremost~[wordiness]~first
+fly through the air~[wordiness]~fly
+foreign imports~[wordiness]~imports
+for all intents and purposes~[wordiness]~(Consider reworking the sentence to avoid this)
+for that which is~[wordiness]~for the
+for the manner in which~[wordiness]~the way
+for the purpose of~[wordiness]~to, for
+foreseeable future~[wordiness]~[when exactly?]
+free gift~[wordiness]~gift
+frozen ice~[wordiness]~ice
+future plans~[wordiness]~plans OR prospects
+gain entry into~[wordiness]~enter
+gather together~[wordiness]~gather
+general consensus~[wordiness]~consensus
+general public~[wordiness]~public
+give an indication of~[wordiness]~indicate
+give consideration to~[wordiness]~consider
+grave crisis~[wordiness]~crisis
+grow in size~[wordiness]~grow
+hand in hand~[wordiness]~together
+has the ability to~[wordiness]~can
+a tendency to~[wordiness]~often OR (Consider reworking the sentence to avoid this)
+been found to be~[wordiness]~is/was/are
+the ability to~[wordiness]~can/could
+the capacity for~[wordiness]~can/could
+the effect of~[wordiness]~(Consider reworking the sentence to avoid this)
+the opportunity to~[wordiness]~can/could
+an effect upon~[wordiness]~influenced
+hear the sound of~[wordiness]~hear
+heat up~[wordiness]~heat
+I myself~[wordiness]~I
+clear and concise~[wordiness]~[concisely] concise
+a situation in which~[wordiness]~experienced
+in a very real sense~[wordiness]~(Consider reworking the sentence to avoid this)
+in a way that is clear~[wordiness]~clearly OR clear way
+in actuality~[wordiness]~(Consider reworking the sentence to avoid this)
+in all likelihood~[wordiness]~likely/probably
+in all probability~[wordiness]~probably/likely
+in close proximity~[wordiness]~near
+in connection with~[wordiness]~about
+in essence~[wordiness]~(Consider reworking the sentence to avoid this)
+in excess of~[wordiness]~more than
+in light of the fact that~[wordiness]~because
+in keeping with~[wordiness]~AVOID
+in itself~[wordiness]~(Consider reworking the sentence to avoid this)
+in nature~[wordiness]~(Consider reworking the sentence to avoid this)
+in order to~[wordiness]~to
+in reality~[wordiness]~(Consider reworking the sentence to avoid this)
+in reference to~[wordiness]~about/regarding
+in the event that~[wordiness]~if
+in the neighborhood of~[wordiness]~about
+in the vicinity of~[wordiness]~near
+in today's society~[wordiness]~today
+in spite of~[wordiness]~despite
+in spite of the fact that~[wordiness]~although
+in such a way~[wordiness]~in a way
+in terms of~[wordiness]~(Consider reworking the sentence to avoid this)
+in the area of~[wordiness]~in OR around
+in the course of~[wordiness]~during, while
+in the event that~[wordiness]~if
+in the final analysis~[wordiness]~finally OR (Consider reworking the sentence to avoid this)
+in light of~[wordiness]~considering OR (Consider reworking the sentence to avoid this)
+in a majority of instances~[wordiness]~usually
+in the midst of~[wordiness]~during, amid
+the nature of~[wordiness]~(Consider reworking the sentence to avoid this)
+in the near future~[wordiness]~soon OR (Consider reworking the sentence to avoid this)
+in the not too distant future~[wordiness]~soon OR (Consider reworking the sentence to avoid this)
+in the vicinity of~[wordiness]~near
+in their own right~[wordiness]~(Consider reworking the sentence to avoid this)
+in this day and age~[wordiness]~currently, now, today
+in today's society~[wordiness]~today
+in view of the fact that~[wordiness]~because
+in which~[wordiness]~(Consider reworking the sentence to avoid this)
+inadvertent error~[wordiness]~error
+inner feelings~[wordiness]~feelings
+join together~[wordiness]~integrate/join
+interestingly enough~[wordiness]~(Consider reworking the sentence to avoid this)
+intertwined together~[wordiness]~intertwined
+intertwine together~[wordiness]~intertwine
+irregardless~[wordiness]~(Consider reworking the sentence to avoid this)
+is a reflection of~[wordiness]~reflects
+is able to~[wordiness]~can OR (Consider reworking the sentence to avoid this)
+is an important factor in~[wordiness]~(Consider reworking the sentence to avoid this)
+is aware of the fact that~[wordiness]~knows
+is described as being~[wordiness]~is OR is described as
+is found to be~[wordiness]~is
+is going to~[wordiness]~will
+is helpful in understanding~[wordiness]~clarifies
+is in conflict with~[wordiness]~conflicts with/is against
+is in contrast to~[wordiness]~contrasts with
+is of significant importance~[wordiness]~is significant OR is important
+is scared of~[wordiness]~fears
+is seen as~[wordiness]~is
+is something that is~[wordiness]~is
+is well aware that~[wordiness]~understands
+is when~[wordiness]~is OR (Consider reworking the sentence to avoid this)
+is where~[wordiness]~(Consider reworking the sentence to avoid this)
+more or less~[wordiness]~(Consider reworking the sentence to avoid this)
+appears as though~[wordiness]~appears OR (Consider reworking the sentence to avoid this)
+seems as though~[wordiness]~seems
+can be seen that~[wordiness]~(Consider reworking the sentence to avoid this)
+could happen that~[wordiness]~could/may/might
+goes to show that~[wordiness]~(Consider reworking the sentence to avoid this)
+clear that~[wordiness]~(Consider reworking the sentence to avoid this)
+evident that~[wordiness]~(Consider reworking the sentence to avoid this)
+apparent that~[wordiness]~(Consider reworking the sentence to avoid this)
+it is crucial that~[wordiness]~must/should OR (Consider reworking the sentence to avoid this)
+it is important that~[wordiness]~must/should OR (Consider reworking the sentence to avoid this)
+interesting~[wordiness]~BE MORE SPECIFIC
+necessary that~[wordiness]~must/should OR (Consider reworking the sentence to avoid this)
+it is possible that~[wordiness]~(Consider reworking the sentence to avoid this)
+it is rarely the case that~[wordiness]~[X] rarely happens
+should be noted that~[wordiness]~(Consider reworking the sentence to avoid this) OR note that
+should be pointed out that~[wordiness]~note that
+would seem that~[wordiness]~(Consider reworking the sentence to avoid this)
+would appear that~[wordiness]~(Consider reworking the sentence to avoid this)
+itself~[wordiness]~(Consider reworking the sentence to avoid this)
+gather together~[wordiness]~join/gather
+join together~[wordiness]~gather/join
+joint collaboration~[wordiness]~collaboration
+joyous celebration~[wordiness]~celebration
+kind of~[wordiness]~(Consider reworking the sentence to avoid this)
+kneel down~[wordiness]~kneel
+lag behind~[wordiness]~lag
+in size~[wordiness]~(Consider reworking the sentence to avoid this)
+last but not least~[wordiness]~finally
+last but not the least~[wordiness]~finally
+later on~[wordiness]~later
+lift up~[wordiness]~lift
+local residents~[wordiness]~residents
+longer/shorter in length~[wordiness]~longer/shorter
+look ahead to the future~[wordiness]~look ahead, plan OR (Consider reworking the sentence to avoid this)
+made out of~[wordiness]~made from, made of
+mainly focuses on~[wordiness]~focuses on
+major breakthrough~[wordiness]~breakthrough
+make a decision~[wordiness]~decide
+make a determination~[wordiness]~decide
+make an assumption~[wordiness]~assume
+make an effort~[wordiness]~try
+made an effort~[wordiness]~try
+make contact with~[wordiness]~contact
+with reference to~[wordiness]~about
+manner in which~[wordiness]~way
+many different kinds of~[wordiness]~many
+many different ways~[wordiness]~many ways
+meet together~[wordiness]~meet
+mental attitude~[wordiness]~attitude
+merge together~[wordiness]~merge
+mix together~[wordiness]~mix
+more or less~[wordiness]~be specific
+more preferable~[wordiness]~preferable
+mutual agreement~[wordiness]~agreement
+mutual respect for~[wordiness]~respect
+nape of the neck~[wordiness]~nape
+native habitat~[wordiness]~habitat
+natural instinct~[wordiness]~instinct
+necessary prerequisite~[wordiness]~prerequisite
+never before~[wordiness]~never
+new invention~[wordiness]~invention/innovation
+new innovation~[wordiness]~innovation/invention
+new record~[wordiness]~record
+new recruit~[wordiness]~recruit
+none at all~[wordiness]~none
+nostalgia for the past~[wordiness]~nostalgia
+not the least of them being~[wordiness]~AVOID
+of great importance~[wordiness]~(Consider reworking the sentence to avoid this) OR is important
+off of~[wordiness]~off OR from
+old custom~[wordiness]~custom/adage
+on a daily basis~[wordiness]~daily
+on account of the fact that~[wordiness]~because
+on the basis of~[wordiness]~because, based on
+the grounds that~[wordiness]~because
+the occasion of~[wordiness]~on/preparing for
+the situation of~[wordiness]~about
+the subject of~[wordiness]~about OR (Consider reworking the sentence to avoid this)
+surface level~[wordiness]~surface
+on the whole~[wordiness]~(Consider reworking the sentence to avoid this)
+on top of this~[wordiness]~moreover OR (Consider reworking the sentence to avoid this)
+on top of that~[wordiness]~moreover
+one of the more~[wordiness]~(Consider reworking the sentence to avoid this)
+one of the most~[wordiness]~(Consider reworking the sentence to avoid this)
+only serves to~[wordiness]~(Consider reworking the sentence to avoid this)
+open up~[wordiness]~open
+over again~[wordiness]~repeatedly
+over exaggerate~[wordiness]~exaggerate
+overall goal~[wordiness]~goal
+overall structure~[wordiness]~structure
+overexaggerate~[wordiness]~exaggerate
+owing to the fact that~[wordiness]~because
+particular type of~[wordiness]~(Consider reworking the sentence to avoid this)
+past experience~[wordiness]~experience
+past history~[wordiness]~history
+past memories~[wordiness]~memories
+the amount of~[wordiness]~(Consider reworking the sentence to avoid this)
+penetrate into~[wordiness]~penetrate
+period of time~[wordiness]~period, time, or (Consider reworking the sentence to avoid this)
+personal friend~[wordiness]~friend
+personal opinion~[wordiness]~opinion
+personally~[wordiness]~(Consider reworking the sentence to avoid this)
+pick and choose~[wordiness]~choose
+plan ahead~[wordiness]~plan
+plan in advance~[wordiness]~plan
+play an important role~[wordiness]~(Consider reworking the sentence to avoid this) [be specific]
+plays an important role~[wordiness]~(Consider reworking the sentence to avoid this) [be specific]
+polar opposites~[wordiness]~opposites
+possible course of action~[wordiness]~choice
+possible courses of action~[wordiness]~choices
+previous/prior to~[wordiness]~before
+proceed ahead~[wordiness]~proceed
+prior to~[wordiness]~before
+protest against~[wordiness]~protest
+providing that~[wordiness]~provided
+put to use~[wordiness]~use
+puzzling in nature~[wordiness]~puzzling
+quite clearly~[wordiness]~(Consider reworking the sentence to avoid this)
+readily apparent~[wordiness]~apparent
+real life~[wordiness]~1
+reconsider again~[wordiness]~reconsider
+refer back~[wordiness]~refer
+reply back~[wordiness]~reply
+reflect back~[wordiness]~reflect
+regardless of the fact that~[wordiness]~although
+respective~[wordiness]~(Consider reworking the sentence to avoid this)
+respectively~[wordiness]~(Consider reworking the sentence to avoid this)
+right up to the~[wordiness]~to the
+rise up~[wordiness]~rise
+in shape~[wordiness]~(Consider reworking the sentence to avoid this)
+safe haven~[wordiness]~haven
+exactly the same thing~[wordiness]~repeat
+scrutinize carefully~[wordiness]~scrutinize
+prefer to have~[wordiness]~prefer
+serious danger~[wordiness]~danger
+serve the purpose of~[wordiness]~(Consider reworking the sentence to avoid this)
+serves to show~[wordiness]~shows
+serve to show~[wordiness]~show
+set a new record~[wordiness]~set a record
+shout loudly~[wordiness]~shout
+in size~[wordiness]~(Consider reworking the sentence to avoid this)
+some kind of~[wordiness]~(Consider reworking the sentence to avoid this)
+in the neighborhood of~[wordiness]~around
+sort of~[wordiness]~(Consider reworking the sentence to avoid this)
+spell out in detail~[wordiness]~spell out OR (Consider reworking the sentence to avoid this)
+state of affairs~[wordiness]~(Consider reworking the sentence to avoid this) [vague] Their accident was a terrible state
+still has yet~[wordiness]~has yet
+study in depth~[wordiness]~study
+subsequent to~[wordiness]~after
+subsequent to the use of~[wordiness]~after using
+sudden impulse~[wordiness]~impulse
+sum total~[wordiness]~total OR sum
+summarize briefly~[wordiness]~summarize
+surrounded on all sides~[wordiness]~surrounded
+sworn affidavit~[wordiness]~affidavit
+symbolically represents~[wordiness]~represents OR symbolizes
+take action~[wordiness]~act
+take into account~[wordiness]~consider
+taken the time~[wordiness]~(Consider reworking the sentence to avoid this)
+in height~[wordiness]~(Consider reworking the sentence to avoid this)
+terrible tragedy~[wordiness]~tragedy
+this being said~[wordiness]~(Consider reworking the sentence to avoid this)
+that being said~[wordiness]~(Consider reworking the sentence to avoid this)
+that exists~[wordiness]~(Consider reworking the sentence to avoid this)
+that exists between~[wordiness]~between/with/among
+that exists among~[wordiness]~between/with/among
+that exists with~[wordiness]~between/with/among
+that is~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+that are~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+that were~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+that is to say~[wordiness]~(Consider reworking the sentence to avoid this)
+the color~[wordiness]~just state the name of the color
+complete opposite of~[wordiness]~the opposite of
+end result~[wordiness]~result
+final result~[wordiness]~result
+human race~[wordiness]~humanity OR people
+the fact that~[wordiness]~that OR (Consider reworking the sentence to avoid this)
+the fact remains~[wordiness]~(Consider reworking the sentence to avoid this)
+final conclusion~[wordiness]~conclusion
+majority of~[wordiness]~most/many
+means by which~[wordiness]~how
+manner by which~[wordiness]~how
+the month of~[wordiness]~(Consider reworking the sentence to avoid this)
+overall plan~[wordiness]~plan
+possibility exists~[wordiness]~may/might/could
+is to illustrate~[wordiness]~wordy
+is to show~[wordiness]~wordy
+is to determine~[wordiness]~wordy
+is to demonstrate~[wordiness]~wordy
+the reason is because~[wordiness]~the reason/because
+the reason why~[wordiness]~the reason, why, because
+type of~[wordiness]~(Consider reworking the sentence to avoid this)
+a tendency~[wordiness]~(Consider reworking the sentence to avoid this) OR BE SPECIFIC
+there is~[wordiness]~(Consider reworking the sentence to avoid this)
+there are~[wordiness]~(Consider reworking the sentence to avoid this)
+there was~[wordiness]~(Consider reworking the sentence to avoid this)
+there were~[wordiness]~(Consider reworking the sentence to avoid this)
+total destruction~[wordiness]~destruction
+to a certain extent~[wordiness]~(Consider reworking the sentence to avoid this) OR BE SPECIFIC
+to be~[wordiness]~(Consider reworking the sentence to avoid this)
+to be in a position to~[wordiness]~to
+to make a plan~[wordiness]~to plan
+to make a decision~[wordiness]~to decide
+to make an acquisition~[wordiness]~to acquire
+to make an arrangement~[wordiness]~to arrange
+true fact~[wordiness]~fact
+in the afternoon~[wordiness]~p.m.
+in the morning~[wordiness]~a.m.
+ultimate fate~[wordiness]~fate
+ultimate objective OR goal~[wordiness]~objective OR goal
+unexpected emergency~[wordiness]~emergency
+unexpected surprise~[wordiness]~surprise
+unintentional mistake~[wordiness]~mistake
+unique in his own way~[wordiness]~(Consider reworking the sentence to avoid this)
+united as one~[wordiness]~united
+until such time as~[wordiness]~until
+useless in function~[wordiness]~useless
+utmost perfection~[wordiness]~perfection
+vacillate back and forth~[wordiness]~vacillate
+valuable asset~[wordiness]~asset
+various different~[wordiness]~various
+very unique~[wordiness]~unique
+violent explosion~[wordiness]~explosion
+virtually~[wordiness]~(Consider reworking the sentence to avoid this)
+visible to the eye~[wordiness]~visible
+warn in advance~[wordiness]~warn
+of the opinion that~[wordiness]~believe
+as a society~[wordiness]~society
+can see that~[wordiness]~AVOID
+we were found to be in agreement~[wordiness]~we agreed
+well aware of~[wordiness]~aware
+in attendance~[wordiness]~attend[ed]
+what is important is~[wordiness]~(Consider reworking the sentence to avoid this)
+when all is said and done~[wordiness]~(Consider reworking the sentence to avoid this)
+whether or not~[wordiness]~whether/if OR (Consider reworking the sentence to avoid this)
+which have been found to be~[wordiness]~are OR (Consider reworking the sentence to avoid this)
+which is~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+which are~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+which were~[wordiness]~(Consider reworking the sentence to avoid this) when possible
+will come in the future~[wordiness]~will come
+will have an effect on~[wordiness]~will effect
+with the possible exception of~[wordiness]~except for
+who are~[wordiness]~(Consider reworking the sentence to avoid this)
+who was~[wordiness]~(Consider reworking the sentence to avoid this)
+who were~[wordiness]~(Consider reworking the sentence to avoid this)
+the way it does~[wordiness]~that way
+with regard to~[wordiness]~about/regarding
+with the exception of~[wordiness]~except for
+witnessed first hand~[wordiness]~witnessed
+young in age~[wordiness]~young
+at the risk of~[wordiness]~risking
+at / by one~[wordiness]~near
+at / for a fraction of~[wordiness]~discounted
+at / from the outset~[wordiness]~initially
+at / in the end~[wordiness]~finally
+at / on sight~[wordiness]~immediately
+at / on the double~[wordiness]~quickly
+at one time~[wordiness]~once
+at a disadvantage~[wordiness]~disadvantaged
+at a discount~[wordiness]~discounted
+at a distance~[wordiness]~far
+at a glance~[wordiness]~immediately
+at a guess~[wordiness]~estimate
+at a loss~[wordiness]~unable
+at a moment~[wordiness]~instantly
+at a price~[wordiness]~costing
+at a rate of~[wordiness]~at
+at a speed of~[wordiness]~travelling
+at a standstill~[wordiness]~stopped
+at all costs~[wordiness]~
+at all events~[wordiness]~regardless
+at an advantage~[wordiness]~advantaged
+at any cost~[wordiness]~
+at any rate~[wordiness]~
+at breakfast~[wordiness]~breakfasting/ed
+at ease with~[wordiness]~peaceful
+at face value~[wordiness]~
+at fault~[wordiness]~responsible
+at full strength~[wordiness]~
+at hand~[wordiness]~near
+at heart~[wordiness]~
+at home with~[wordiness]~accepting
+at issue~[wordiness]~disputing
+at large~[wordiness]~roaming
+at length~[wordiness]~eventually
+at liberty~[wordiness]~free
+at odds with~[wordiness]~disputing
+at once~[wordiness]~immediately
+at peace with~[wordiness]~accept
+at war with~[wordiness]~fighting
+at play~[wordiness]~playing
+at present~[wordiness]~now
+at random~[wordiness]~randomly
+in front of~[wordiness]~before
+at the age of~[wordiness]~X years old
+at the beginning~[wordiness]~initially
+at the expense of~[wordiness]~costing
+at the foot of~[wordiness]~beneath
+at the hands of~[wordiness]~subservient to
+at the height of~[wordiness]~peaking
+at the latest~[wordiness]~most recent
+at the mercy of~[wordiness]~
+at the peak of~[wordiness]~cresting
+at the same time~[wordiness]~simultaneously
+at the thought of~[wordiness]~thinking
+at the time of~[wordiness]~during
+at the top of~[wordiness]~topping
+at this juncture~[wordiness]~now
+at times~[wordiness]~sometimes
+at war with~[wordiness]~fighting
+at work~[wordiness]~working
+behind the scenes~[wordiness]~incognito
+by chance~[wordiness]~possibly
+by the name of~[wordiness]~named
+with luck~[wordiness]~luckily
+by accident~[wordiness]~accidentally
+by all accounts~[wordiness]~
+by all means~[wordiness]~certainly
+by coincidence~[wordiness]~coincidentally
+by courtesy of~[wordiness]~thanks to
+by definition~[wordiness]~(Consider reworking the sentence to avoid this)
+by degrees~[wordiness]~gradually
+by design~[wordiness]~intentional
+by far~[wordiness]~clearly
+by force~[wordiness]~forcefully
+by hand~[wordiness]~manually
+by heart~[wordiness]~memorized
+by means of~[wordiness]~through
+by mistake~[wordiness]~mistakenly
+by nature~[wordiness]~innately
+by no means~[wordiness]~
+by oneself~[wordiness]~
+by order of~[wordiness]~
+by process of~[wordiness]~
+by profession~[wordiness]~
+by reason of~[wordiness]~
+by request~[wordiness]~
+by rights~[wordiness]~deserve(d)
+by sight~[wordiness]~immediately
+by surprise~[wordiness]~surprised
+by the side of~[wordiness]~aside
+by virtue of~[wordiness]~by
+by way of~[wordiness]~via
+for a good cause~[wordiness]~philathropically
+for the benefit~[wordiness]~for
+for a good reason~[wordiness]~justly
+for a change~[wordiness]~
+for certain~[wordiness]~certainly
+for fear of~[wordiness]~fearing
+for good~[wordiness]~completely
+for granted~[wordiness]~assume(d)
+for lack of~[wordiness]~lacking
+for my part~[wordiness]~(Consider reworking the sentence to avoid this)
+for his part~[wordiness]~(Consider reworking the sentence to avoid this)
+for her part~[wordiness]~(Consider reworking the sentence to avoid this)
+for their part~[wordiness]~
+for real~[wordiness]~truly
+for the good of~[wordiness]~benefiting
+for the sake of~[wordiness]~for
+for want of~[wordiness]~lacking
+in no time~[wordiness]~quickly
+at the forefront of~[wordiness]~leading
+in the forefront of~[wordiness]~leading
+in demand~[wordiness]~demanded/wanted
+on demand~[wordiness]~demanded/wanted
+out of focus~[wordiness]~unclear
+in focus~[wordiness]~clear
+out of one~[wordiness]~unfamiliar
+in one's element~[wordiness]~familiar
+out of season~[wordiness]~not current
+in season~[wordiness]~current
+in stock~[wordiness]~available
+out of touch with~[wordiness]~unfamiliar with
+in touch with~[wordiness]~familiar with
+out of use~[wordiness]~obsolete/unused/old
+in use~[wordiness]~current/used/relevant
+with difficulty~[wordiness]~not easily
+in difficulty~[wordiness]~challenged
+within sight of~[wordiness]~near
+in sight of~[wordiness]~near
+in a deep sleep~[wordiness]~slumbering/sleeping
+in a flash~[wordiness]~quickly
+in a heap~[wordiness]~heaped
+in a hurry~[wordiness]~rushing
+in a mess~[wordiness]~scattered/messy
+in a pile~[wordiness]~piled
+in a sense~[wordiness]~somewhat
+in a temper~[wordiness]~angry
+in abeyance~[wordiness]~receding/abeying/waning
+in abundance~[wordiness]~frequent/abundant
+in accordance with~[wordiness]~(Consider reworking the sentence to avoid this)
+in action~[wordiness]~active
+in addition to~[wordiness]~and
+in advance~[wordiness]~before/previous
+in agony~[wordiness]~agonizing
+in agreement with~[wordiness]~agreeing
+in aid of~[wordiness]~helping
+in all likelihood~[wordiness]~likely
+in an instant~[wordiness]~instantly
+in an uproar~[wordiness]~furious/upset/crazed
+in answer to~[wordiness]~answering
+in anticipation of~[wordiness]~anticipating
+in arrears~[wordiness]~late
+in awe of~[wordiness]~awed by
+in blossom~[wordiness]~blooming
+in brief~[wordiness]~briefly
+in character~[wordiness]~(Consider reworking the sentence to avoid this)
+in charge of~[wordiness]~leading
+in collaboration with~[wordiness]~with
+in combination with~[wordiness]~with
+in command of~[wordiness]~controlling/commanding
+in common~[wordiness]~sharing
+in comparison with~[wordiness]~and
+in compensation for~[wordiness]~for
+in conclusion~[wordiness]~(Consider reworking the sentence to avoid this)
+in confidence~[wordiness]~confidentially
+in confinement~[wordiness]~confined
+in confusion~[wordiness]~confused
+in conjunction with~[wordiness]~with
+in connection with~[wordiness]~with
+in consequence of~[wordiness]~resulting in
+in contact with~[wordiness]~known/knowing
+in contrast to~[wordiness]~and/unlike/or
+in contrast with~[wordiness]~and/unlike/or
+in control of~[wordiness]~controlling/leading
+in debt~[wordiness]~owing
+in decline~[wordiness]~declining
+in defense of~[wordiness]~defending
+in detail~[wordiness]~specifically/detailed
+in disgrace~[wordiness]~disgracefully
+in disguise~[wordiness]~disguised
+in disorder~[wordiness]~disordered
+in dispute~[wordiness]~disputing
+in distress~[wordiness]~distressed
+in doubt~[wordiness]~doubting
+in due course~[wordiness]~(Consider reworking the sentence to avoid this) or eventually
+in duplicate~[wordiness]~twice/repeated/doubled
+in earnest~[wordiness]~earnestly
+in effect~[wordiness]~(Consider reworking the sentence to avoid this)
+in error~[wordiness]~wrong
+in essence~[wordiness]~essentially
+in excess of~[wordiness]~exceeding
+in exchange for~[wordiness]~for
+in existence~[wordiness]~existing/exists
+in fact~[wordiness]~(Consider reworking the sentence to avoid this)
+in fairness to~[wordiness]~acknowledging
+in favor of~[wordiness]~favoring
+in fear of~[wordiness]~fearing
+in flames~[wordiness]~flaming/burning
+in flower~[wordiness]~blooming
+in full~[wordiness]~fully
+in the future~[wordiness]~next/soon/ahead
+in gear~[wordiness]~moving
+in general~[wordiness]~generally
+in good condition~[wordiness]~pristine/well-maintained
+in bad condition~[wordiness]~wrecked/worn down
+in good faith~[wordiness]~sincere(ly)
+in hand~[wordiness]~holding
+in harmony with~[wordiness]~agreeing/harmonizing with
+in haste~[wordiness]~quickly
+in hiding~[wordiness]~secretly/incognito
+in high spirits~[wordiness]~upbeat
+in honor of~[wordiness]~honoring
+in horror of~[wordiness]~abhorring
+in isolation~[wordiness]~isolated
+in its infancy~[wordiness]~beginning/inception
+in jeopardy~[wordiness]~risking
+in keeping with~[wordiness]~maintaining
+in labor~[wordiness]~laboring/giving birth
+in league with~[wordiness]~allied
+in length~[wordiness]~(Consider reworking the sentence to avoid this)
+in line with~[wordiness]~follows
+in love with~[wordiness]~loves
+in memory of~[wordiness]~remembering/honoring
+in mid-air~[wordiness]~mid-air
+in mind~[wordiness]~thinking
+in moderation~[wordiness]~moderately
+in mourning~[wordiness]~mourning
+in name only~[wordiness]~artificial/sinecure
+in office~[wordiness]~elected/representing
+in one~[wordiness]~while absent
+in one~[wordiness]~when free/available
+in operation~[wordiness]~using/used
+in opposition to~[wordiness]~opposing
+in origin~[wordiness]~originally
+in other words~[wordiness]~basically
+in pain~[wordiness]~hurting
+in particular~[wordiness]~specifically
+in person~[wordiness]~(Consider reworking the sentence to avoid this)
+in pieces~[wordiness]~broken
+in place of~[wordiness]~replacing
+in possession of~[wordiness]~owning/possessing
+in poverty~[wordiness]~impoverished
+in practice~[wordiness]~traditionally
+in preference to~[wordiness]~preferring
+in preparation for~[wordiness]~for/preparing for
+in principle~[wordiness]~theoretically
+in private~[wordiness]~privately
+in progress~[wordiness]~progressing
+in proportion to~[wordiness]~proportionally/proportionately
+in proportion with~[wordiness]~proportionately/proportionally
+in public~[wordiness]~publicly
+in pursuit of~[wordiness]~pursuing
+in quantity~[wordiness]~amount
+in question~[wordiness]~(Consider reworking the sentence to avoid this)
+in reality~[wordiness]~actually/truly OR (Consider reworking the sentence to avoid this)
+in recognition of~[wordiness]~recognizing
+in relation to~[wordiness]~relates/relating (to)
+in reply to~[wordiness]~replying
+in reserve~[wordiness]~reserved
+in residence~[wordiness]~residing
+in respect of~[wordiness]~respecting
+in response to~[wordiness]~responding to
+in revenge for~[wordiness]~to avenge
+in reverse~[wordiness]~backwards/reverse
+in ruins~[wordiness]~ruined
+in safety~[wordiness]~safe
+best interest~[wordiness]~(Consider reworking the sentence to avoid this)
+her opinion~[wordiness]~(Consider reworking the sentence to avoid this) or thinks
+my opinion~[wordiness]~(Consider reworking the sentence to avoid this) or think
+his opinion~[wordiness]~(Consider reworking the sentence to avoid this) or thinks
+in search of~[wordiness]~searching for
+in secret~[wordiness]~secretly/incognito
+in self-defense~[wordiness]~defensively
+in settlement of~[wordiness]~(Consider reworking the sentence to avoid this)
+in silence~[wordiness]~silently
+in store~[wordiness]~expecting/imminent
+in succession~[wordiness]~succeeding
+in support of~[wordiness]~supporting
+in sympathy with~[wordiness]~sympathizing with
+in tears~[wordiness]~crying
+in terms of~[wordiness]~for
+in terror~[wordiness]~terrified
+in the absence of~[wordiness]~lacking/without
+in the aftermath~[wordiness]~resulting in
+in the balance~[wordiness]~(Consider reworking the sentence to avoid this)
+in the case of~[wordiness]~for
+in the course of~[wordiness]~incidentally
+in the distance~[wordiness]~distantly
+in the event of~[wordiness]~if
+in the extreme~[wordiness]~extremely
+in the eyes of~[wordiness]~according to
+in the flesh~[wordiness]~(Consider reworking the sentence to avoid this)
+in the form of~[wordiness]~(Consider reworking the sentence to avoid this)
+in the habit of~[wordiness]~usually
+in the interests of~[wordiness]~for
+in the lead~[wordiness]~leading
+in light of~[wordiness]~due to OR (Consider reworking the sentence to avoid this)
+in the long run~[wordiness]~eventually
+in the making~[wordiness]~forming OR REWRITE
+in the meantime~[wordiness]~meanwhile/simultaneously
+in the midst of~[wordiness]~among
+in the mood for~[wordiness]~desiring/wanting
+in the name of~[wordiness]~for
+in the night~[wordiness]~at night
+in the open~[wordiness]~openly
+in the process of~[wordiness]~beginning to/starting to
+in the right~[wordiness]~correct
+in the seclusion of~[wordiness]~secluded by
+in the shade~[wordiness]~shaded by
+in the space of~[wordiness]~within
+in the wake of~[wordiness]~after
+in the way of~[wordiness]~like
+in the wrong~[wordiness]~wrong
+in theory~[wordiness]~theoretically
+in times of~[wordiness]~during
+in town~[wordiness]~here/there
+in trouble~[wordiness]~troubled/embattled
+in tune with~[wordiness]~agreeing with
+in turmoil~[wordiness]~disagreeing
+in turn~[wordiness]~(Consider reworking the sentence to avoid this)
+in unison~[wordiness]~together
+in vain~[wordiness]~vainly
+in view of~[wordiness]~considering
+in vogue~[wordiness]~hip/fashionable/chic
+of the opinion~[wordiness]~thinks or (Consider reworking the sentence to avoid this)
+on duty~[wordiness]~working
+off duty~[wordiness]~off
+off their rocker~[wordiness]~crazy
+on the watch for~[wordiness]~waiting for/expecting
+behind~[wordiness]~late
+on schedule~[wordiness]~punctual
+off the record~[wordiness]~private(ly)
+on the record~[wordiness]~public(ly)
+on the road~[wordiness]~travelling
+under oath~[wordiness]~sworn
+under pain of~[wordiness]~(Consider reworking the sentence to avoid this)
+on the air~[wordiness]~playing
+off the air~[wordiness]~discontinued
+off balance~[wordiness]~unbalanced
+on a diet~[wordiness]~dieting
+on a large scale~[wordiness]~generally
+on a small scale~[wordiness]~specifically
+on a regular basis~[wordiness]~regularly
+on account of~[wordiness]~due to/because of
+on average~[wordiness]~generally
+on behalf of~[wordiness]~for
+on condition that~[wordiness]~assuming/if
+on credit~[wordiness]~borrowing/lending
+on display~[wordiness]~displayed
+on edge~[wordiness]~worried
+on end~[wordiness]~(Consider reworking the sentence to avoid this)
+on file~[wordiness]~recorded
+on fire~[wordiness]~burning
+on foot~[wordiness]~walking
+on good terms~[wordiness]~amicable/friendly
+on guard~[wordiness]~guarding
+on hand~[wordiness]~(Consider reworking the sentence to avoid this)
+on horseback~[wordiness]~Horse-riding
+on impulse~[wordiness]~impulsively
+on leave~[wordiness]~absent/vacationing/travelling
+on no account~[wordiness]~never
+on occasion~[wordiness]~occasionally
+own terms~[wordiness]~(Consider reworking the sentence to avoid this)
+on your own~[wordiness]~individually
+on her own~[wordiness]~individually
+on his own~[wordiness]~individually
+on their own~[wordiness]~individually
+on one~[wordiness]~individually
+on paper~[wordiness]~recorded
+on patrol~[wordiness]~patrolling
+on purpose~[wordiness]~intentionally
+upon reflection~[wordiness]~(Consider reworking the sentence to avoid this)
+on reflection~[wordiness]~(Consider reworking the sentence to avoid this)
+on sale~[wordiness]~discounted
+on second thought~[wordiness]~however
+on show~[wordiness]~displayed
+on strike~[wordiness]~striking
+on suspicion of~[wordiness]~suspecting
+on the agenda~[wordiness]~planned
+on the assumption~[wordiness]~assuming/if
+on the brink of~[wordiness]~nearly/almost
+on the dot~[wordiness]~exactly
+on the edge of~[wordiness]~nearly/almost
+on the eve of~[wordiness]~near
+on the grounds of~[wordiness]~because of
+on the horizon~[wordiness]~near/soon
+on the hour~[wordiness]~prompt
+on the increase~[wordiness]~increasing
+on the job~[wordiness]~working
+on the move~[wordiness]~moving
+on the off-chance~[wordiness]~if
+on the outskirts~[wordiness]~nearby/near
+on the part of~[wordiness]~for
+on the phone~[wordiness]~talking
+on the point of~[wordiness]~near/close to
+on the run~[wordiness]~running
+on the strength of~[wordiness]~based on
+on the stroke of~[wordiness]~(Consider reworking the sentence to avoid this)
+on the tip of~[wordiness]~near to
+on the top of~[wordiness]~leading
+on the understanding that~[wordiness]~given/assuming
+on the verge of~[wordiness]~almost
+on the way to~[wordiness]~heading to/toward
+on time~[wordiness]~prompt
+on vacation~[wordiness]~vacationing
+in fashion~[wordiness]~fashionable
+out of fashion~[wordiness]~unfashionable
+in print~[wordiness]~current
+out of print~[wordiness]~discontinued
+in step~[wordiness]~following
+out of step~[wordiness]~not following
+out of breath~[wordiness]~winded/exhausted/tired
+out of control~[wordiness]~uncontrollable
+out of curiosity~[wordiness]~(Consider reworking the sentence to avoid this)
+out of date~[wordiness]~outdated
+out of doors~[wordiness]~outside
+out of one~[wordiness]~crazy
+out of order~[wordiness]~broken
+out of pity~[wordiness]~sympathizing/pitying
+out of place~[wordiness]~improper
+out of reach~[wordiness]~unreachable
+out of respect for~[wordiness]~honoring
+out of sight~[wordiness]~unattainable
+out of spite~[wordiness]~spiting
+out of stock~[wordiness]~unavailable
+out of the ordinary~[wordiness]~unusual
+out of the question~[wordiness]~impossible
+out of work~[wordiness]~unemployed
+through no fault of~[wordiness]~innocently
+on the contrary~[wordiness]~instead
+to an extent~[wordiness]~(Consider reworking the sentence to avoid this)
+to date~[wordiness]~(Consider reworking the sentence to avoid this)
+to excess~[wordiness]~excessively
+to one~[wordiness]~surprisingly
+to his face~[wordiness]~directly
+to her face~[wordiness]~directly
+to my face~[wordiness]~directly
+to this day~[wordiness]~until now
+to the best of~[wordiness]~(Consider reworking the sentence to avoid this)
+to the detriment of~[wordiness]~harming
+to the exclusion of~[wordiness]~excluding
+to the full~[wordiness]~fully
+under age~[wordiness]~a minor
+under arrest~[wordiness]~arrested
+under consideration~[wordiness]~X is considering
+under construction~[wordiness]~X is constructing
+under discussion~[wordiness]~discussing
+under lock and key~[wordiness]~protected/safeguarded
+under pressure~[wordiness]~pressured
+under regulations~[wordiness]~expected
+under repair~[wordiness]~X is repairing
+under strain~[wordiness]~straining to
+under stress~[wordiness]~stressed
+under suspicion~[wordiness]~suspected of
+under the command of~[wordiness]~commanded by
+under the impression that~[wordiness]~thinking/believing that
+under the influence~[wordiness]~intoxicated/high/drunk
+under the misapprehension~[wordiness]~assuming
+with reference to~[wordiness]~concerning
+in reference to~[wordiness]~concerning
+without success~[wordiness]~unsuccessfully
+with success~[wordiness]~successfully
+with a view to~[wordiness]~(Consider reworking the sentence to avoid this) or to
+with an eye to~[wordiness]~(Consider reworking the sentence to avoid this) or to
+with regard to~[wordiness]~regarding
+with regret~[wordiness]~regretfully
+with respect to~[wordiness]~regarding
+with the aid of~[wordiness]~with
+with the compliments of~[wordiness]~thanks to
+with the exception of~[wordiness]~excepting
+with the help of~[wordiness]~thanks to
+with the intention of~[wordiness]~intending to
+within reason~[wordiness]~reasonably
+within grasp~[wordiness]~near
+within reach of~[wordiness]~attainable/can attain
+within walking distance~[wordiness]~nearby/near
+without a doubt~[wordiness]~undoubtedly
+without doubt~[wordiness]~undoubtedly
+without a break~[wordiness]~unceasingly
+without a hitch~[wordiness]~easily
+without delay~[wordiness]~directly
+without exception~[wordiness]~universally
+without fail~[wordiness]~dependably
+without foundation~[wordiness]~baseless
+without precedent~[wordiness]~unprecedented
+without question~[wordiness]~unquestionably
+without warning~[wordiness]~unexpected
+whole different~[wordiness]~different
+to me~[wordiness]~(Consider reworking the sentence to avoid this)
+do not like~[wordiness]~dislike
